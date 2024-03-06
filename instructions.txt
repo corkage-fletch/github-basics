@@ -1,0 +1,9 @@
+Initialized empty Git repository in /Volumes/workspace/golang/awesomeProject1/.git/
+Jeff@Jeffs-MacBook-Pro-2018 awesomeProject1 % ls -la
+total 8
+drwxr-xr-x@  3 Jeff  staff  136 Mar  6 15:18 .
+drwxr-xr-x  25 Jeff  staff  884 Mar  6 15:18 ..
+drwxr-xr-x@  6 Jeff  staff  306 Mar  6 15:18 .git
+-rw-r--r--@  1 Jeff  staff   32 Mar  6 15:18 go.mod
+Jeff@Jeffs-MacBook-Pro-2018 awesomeProject1 % touch instructions.txt
+Jeff@Jeffs-MacBook-Pro-2018 awesomeProject1 %
